@@ -1,4 +1,4 @@
-# Deep Learning Specialization Repository 🧠
+# Deep Learning Specialization
 
 [![Course](https://img.shields.io/badge/DeepLearning.AI-Course-blue)](https://www.coursera.org/specializations/deep-learning)
 [![Platform](https://img.shields.io/badge/Platform-Coursera-blueviolet)](https://www.coursera.org)
