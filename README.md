@@ -197,15 +197,32 @@ This repository serves as a resource for those taking the Deep Learning Speciali
 - Study code examples
 - Explore practical implementations of deep learning concepts
 
-## ⚠️ Disclaimer
-
-This repository is meant for educational purposes and as a reference. Please adhere to Coursera's Honor Code and avoid directly copying solutions for submission in the actual courses.
-
 ## 🔗 Additional Resources
 
 - [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 - [deeplearning.ai](https://www.deeplearning.ai/)
 - [TensorFlow Documentation](https://www.tensorflow.org/api_docs)
+
+## 👨‍🏫 Top Instructors
+
+- [**Andrew Ng**](https://www.linkedin.com/in/andrewyng/)
+  - Founder of DeepLearning.AI
+  - Co-founder of Coursera
+  - Adjunct Professor at Stanford University
+
+- [**Younes Bensouda Mourri**](https://www.linkedin.com/in/younes-bensouda-mourri-8749b9a9)
+  - Instructor at DeepLearning.AI
+  - Founder of LiveTech.AI
+  - Lecturer at Stanford University
+  - 
+- [**Kian Katanforoosh**](https://www.linkedin.com/in/https://www.linkedin.com/in/kiankatan/)
+  - Instructor at DeepLearning.AI
+  - CEO and Co-founder of Workera
+  - Lecturer at Stanford University
+
+## ⚠️ Disclaimer
+
+This repository is meant for educational purposes and as a reference. Please adhere to Coursera's Honor Code and avoid directly copying solutions for submission in the actual courses.
 
 ## 🙏 Acknowledgments
 
