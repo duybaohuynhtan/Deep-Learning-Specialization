@@ -200,7 +200,7 @@ This repository serves as a resource for those taking the Deep Learning Speciali
 ## 🔗 Additional Resources
 
 - [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
-- [deeplearning.ai](https://www.deeplearning.ai/)
+- [DeepLearning.AI](https://www.deeplearning.ai/)
 - [TensorFlow Documentation](https://www.tensorflow.org/api_docs)
 
 ## 👨‍🏫 Top Instructors
