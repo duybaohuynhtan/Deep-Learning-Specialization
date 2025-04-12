@@ -235,7 +235,7 @@ The final course in the specialization focuses on sequence models and their appl
 - 🎶 Music generation with deep learning
 - 🏗️ Question answering system with transformers
 
-## 🛠️ Repository Structure
+## 📂 Repository Structure
 
 ```
 Deep-Learning-Specialization/
@@ -274,17 +274,7 @@ This repository serves as a resource for those taking the Deep Learning Speciali
 - [**Andrew Ng**](https://www.linkedin.com/in/andrewyng/)  
   - 🧠 Founder of DeepLearning.AI  
   - 🌐 Co-founder of Coursera  
-  - 🎓 Adjunct Professor at Stanford University  
-
-- [**Younes Bensouda Mourri**](https://www.linkedin.com/in/younes-bensouda-mourri-8749b9a9)  
-  - 👨‍🏫 Instructor at DeepLearning.AI  
-  - 🧠 Founder of LiveTech.AI  
-  - 🎓 Lecturer at Stanford University  
-
-- [**Kian Katanforoosh**](https://www.linkedin.com/in/kiankatan/)  
-  - 👨‍🏫 Instructor at DeepLearning.AI  
-  - 🧠 CEO and Co-founder of Workera  
-  - 🎓 Lecturer at Stanford University  
+  - 🎓 Adjunct Professor at Stanford University
 
 ## ⚠️ Disclaimer
 
