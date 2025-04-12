@@ -4,6 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Coursera-blueviolet)](https://www.coursera.org)
 [![Language](https://img.shields.io/badge/Language-Python-green)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-TensorFlow-orange)](https://www.tensorflow.org/)
+[![Framework](https://img.shields.io/badge/Framework-PyTorch-orange)](https://pytorch.org/)
 
 This repository contains resources, assignments, and projects from the [**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning) by [**DeepLearning.AI**](https://www.deeplearning.ai/) on **Coursera**, instructed by **Andrew Ng**. The specialization consists of 5 courses that provide a comprehensive introduction to deep learning techniques and applications.
 
