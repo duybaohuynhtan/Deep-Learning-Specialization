@@ -239,6 +239,7 @@ The final course in the specialization focuses on sequence models and their appl
 
 ```
 Deep-Learning-Specialization/
+├── Certificate
 ├── Course 1 - Neural Networks and Deep Learning/
 ├── Course 2 - Improving Deep Neural Networks/
 ├── Course 3 - Structuring Machine Learning Projects/
